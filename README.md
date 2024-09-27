@@ -1,6 +1,9 @@
 # MsalAngularExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14. this project indicate how to build an Angular project using a Microsoft Active Directory for Angular.  With this project I can authenticate and generate an Angular program.
+
+# MsalAngularExample
+Para que funcione este proyecto debo registar la aplicacion de el directorio activo de azure y copiar el id y el tenanId que me proporciona azure dentro de las configuraciones del proyecto de angular.
 
 ## Development server
 
